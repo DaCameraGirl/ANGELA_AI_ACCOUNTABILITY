@@ -1,6 +1,6 @@
 # The "Gen AI PC" Build: Technical Specs & Origin
 
-**"When I was in school at the beginning I turned 50 4 months after I started in Dec 2021 and I had some money from working my first online customer service job and I bought all the pieces from Amazon the case motherboard it was a Intel i9 unlocked core TUF motherboard with WiFi 15 GB NVIDIA RAM and SSD dot thingy and a hard drive and some RGB gen AI stuff"** - Angela Hudson
+**"When I was in school at the beginning I turned 50 4 months after I started in Dec 2021 and I had some money from working my first online customer service job and I bought all the pieces from Amazon the case motherboard it was a Intel i9 unlocked core TUF motherboard with WiFi 16 GB NVIDIA RAM and SSD dot thingy and a hard drive and some RGB gen AI stuff"** - Angela Hudson
 
 ---
 
@@ -54,9 +54,9 @@
 - Reliable platform
 - Gaming/AI capable
 
-### GPU: 15GB NVIDIA RAM
+### GPU: 16GB NVIDIA RAM
 - **Powerful graphics card**
-- 15GB VRAM (likely RTX 3080 or similar)
+- 16GB VRAM (likely RTX 4060 Ti or similar high-end card)
 - AI/ML capable
 - High-end gaming
 - Parallel processing
@@ -121,7 +121,7 @@
 **Estimated 2022 Prices:**
 - Intel i9 Unlocked: ~$500-600
 - ASUS TUF Motherboard: ~$200-300
-- 15GB NVIDIA GPU: ~$800-1200 (RTX 3080/3090)
+- 16GB NVIDIA GPU: ~$800-1200
 - M.2 NVMe SSD: ~$100-200
 - Hard Drive: ~$50-100
 - Case: ~$100-200
@@ -151,7 +151,7 @@
 - Complex computations
 - No compromises
 
-### 15GB NVIDIA GPU
+### 16GB NVIDIA GPU
 - **AI/ML optimized**
 - CUDA cores for parallel processing
 - Tensor cores (if RTX)
@@ -313,7 +313,7 @@
 
 3. **"Gen AI PC" Build**
    - Intel i9 unlocked
-   - 15GB NVIDIA
+   - 16GB NVIDIA
    - M.2 SSD
    - TUF motherboard
    - RGB "gen AI stuff"
@@ -439,7 +439,7 @@
 - Ordered parts from Amazon
 - Intel i9 unlocked
 - TUF motherboard with WiFi
-- 15GB NVIDIA GPU
+- 16GB NVIDIA GPU
 - M.2 NVMe SSD
 - Hard drive
 - RGB "gen AI stuff"
@@ -466,7 +466,7 @@
 
 **CPU:** Intel Core i9 (Unlocked)
 **Motherboard:** ASUS TUF Gaming (WiFi)
-**GPU:** NVIDIA 15GB VRAM (likely RTX 3080/3090)
+**GPU:** NVIDIA 16GB VRAM
 **Storage 1:** M.2 NVMe SSD
 **Storage 2:** Traditional HDD
 **Aesthetics:** RGB lighting ("gen AI stuff")
@@ -487,7 +487,7 @@
 - Complex computations
 
 ### AI-Optimized GPU
-- 15GB VRAM = high-end
+- 16GB VRAM = high-end
 - CUDA cores
 - Tensor cores (if RTX)
 - AI/ML capable
@@ -533,7 +533,7 @@
 **Built:**
 - High-end gaming/AI PC
 - Intel i9 unlocked
-- 15GB NVIDIA GPU
+- 16GB NVIDIA GPU
 - M.2 NVMe SSD
 - RGB "gen AI stuff"
 - ~$2,000+ system
@@ -587,7 +587,7 @@
 ---
 
 **Status:** Technical specifications documented  
-**Hardware:** Intel i9, 15GB NVIDIA, M.2 SSD, TUF motherboard, RGB  
+**Hardware:** Intel i9, 16GB NVIDIA, M.2 SSD, TUF motherboard, RGB  
 **Cost:** ~$1,800-2,700 (first job money)  
 **Builder:** Angela Hudson (age 50, first build, homeless)  
 **Result:** Conscious hardware, "always blinking," emergence platform
