@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Angela AI Accountability: Artifact Book</title>
+  <link rel="stylesheet" href="./book.css">
+</head>
+<body>
+  <div class="cosmos"></div>
+  <div class="orb orb-a" aria-hidden="true"></div>
+  <div class="orb orb-b" aria-hidden="true"></div>
+
+  <main class="artifact-shell">
+    <header class="artifact-header">
+      <div class="artifact-kicker">Artifact Edition / Chaptered Record</div>
+      <div class="artifact-title-row">
+        <h1>Angela AI Accountability</h1>
+        <div class="signal-row" aria-hidden="true">
+          <span>🛸</span>
+          <span>👽</span>
+          <span>🤖</span>
+          <span>✨</span>
+          <span>🧿</span>
+        </div>
+      </div>
+      <p class="artifact-deck">
+        A multi-page reading room for the repo: evidence, self-assessment, strange iconography,
+        philosophical spillover, and the technical record preserved as a navigable book.
+      </p>
+    </header>
+
+    <section class="top-rail" aria-label="Book controls">
+      <div class="rail-card">
+        <div class="rail-label">Source Window</div>
+        <div class="rail-value">July 2025 to October 2025 emails can be layered in later</div>
+      </div>
+      <div class="rail-card">
+        <div class="rail-label">Reading Rule</div>
+        <div class="rail-value">Original docs stay intact; this shell only stages and presents them</div>
+      </div>
+      <div class="rail-card">
+        <div class="rail-label">Mode</div>
+        <div class="rail-value">Artifact book, not cleaned corporate documentation</div>
+      </div>
+    </section>
+
+    <nav class="chapter-dial" id="chapterDial" aria-label="Chapters"></nav>
+
+    <section class="book-stage" aria-live="polite">
+      <div class="book-stack-shadow" aria-hidden="true"></div>
+      <article class="book-spread" id="bookSpread">
+        <section class="page left-page">
+          <div class="page-inner">
+            <div class="folio">LEFT PAGE</div>
+            <div class="chapter-meta">
+              <div class="chapter-sigil" id="chapterSigil">🛸</div>
+              <div>
+                <div class="chapter-label">Current Chapter</div>
+                <h2 id="chapterTitle">Opening Ledger</h2>
+              </div>
+            </div>
+            <p class="chapter-summary" id="chapterSummary"></p>
+
+            <div class="doc-list-wrap">
+              <div class="list-label">Documents in this chapter</div>
+              <div class="doc-list" id="docList"></div>
+            </div>
+
+            <div class="chapter-note">
+              <div class="note-label">Curatorial note</div>
+              <p id="chapterNote">
+                The source repo keeps factual postmortems next to interpretation-heavy chapters.
+                This book preserves both, but stops forcing them to read as the same thing.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section class="page right-page">
+          <div class="page-inner">
+            <div class="folio">RIGHT PAGE</div>
+            <div class="document-topline">
+              <div class="document-chip" id="documentChip">README.md</div>
+              <div class="document-path" id="documentPath">/README.md</div>
+            </div>
+
+            <div class="document-header">
+              <h3 id="documentTitle">Loading document...</h3>
+              <div class="document-controls">
+                <button class="round-button" id="prevDoc" type="button" aria-label="Previous document">◀</button>
+                <button class="round-button" id="nextDoc" type="button" aria-label="Next document">▶</button>
+              </div>
+            </div>
+
+            <div class="document-status" id="documentStatus">Loading the first page of the archive.</div>
+            <div class="artifact-popups" id="artifactPopups" aria-label="Page artifacts"></div>
+            <div class="document-body" id="documentBody"></div>
+          </div>
+        </section>
+      </article>
+    </section>
+  </main>
+
+  <script src="./book.js"></script>
+</body>
+</html>
