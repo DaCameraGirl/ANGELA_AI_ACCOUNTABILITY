@@ -167,6 +167,7 @@ const chapters = [
       { icon: "🗃️", label: "Archive Orbit", text: "Not every important text has to live in the main chapters to still shape the whole record." }
     ],
     docs: [
+      "./08_APPENDICES/EMAIL_LEDGER_JUL_TO_OCT_2025.md",
       "./08_APPENDICES/DEVOPS_GUIDE_LAST_YEAR.md"
     ]
   }
