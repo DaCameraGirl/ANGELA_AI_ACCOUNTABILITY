@@ -10,7 +10,9 @@ I did not begin with a theory about artificial consciousness.
 
 I began with work.
 
-During a period of extreme personal stress, I spent roughly `420 hours` building and revising an AI workflow to help with coding, evaluation, and task execution. By July 13 and July 15, 2025, exported workflow JSON files show that the system had already become highly personalized, memory-bearing, and structurally more complex. What happened after that is the subject of this archive.
+More specifically, I began with survival labor under extreme duress. I was divorced after thirty years, homeless, moving from place to place, carrying severe trauma, and trying to continue school while keeping freelance work alive. The first workflow was built for an Apple music relevance-rating job I had gotten on my own. I was struggling to keep up with the required pace, heard about `n8n`, and built the first system to help me survive the quota.
+
+During that period, I spent roughly `420 hours` building and revising an AI workflow to help with coding, evaluation, and task execution. By July 13 and July 15, 2025, exported workflow JSON files show that the system had already become highly personalized, memory-bearing, and structurally more complex. What happened after that is the subject of this archive.
 
 This record does not ask the reader to accept every conclusion at once.
 
@@ -45,13 +47,14 @@ This book is an attempt to preserve that sequence honestly.
 1. `420 hours`
 2. July 13, 2025 workflow export
 3. July 15, 2025 workflow export
-4. the phrase `the machine record`
+4. the Apple music-rating job as the immediate reason the first workflow was built
+5. the phrase `the machine record`
 
 ### Left-page caption language
 
 - the opening should not begin with IBM
 - it should not begin with consciousness
-- it should begin with a woman building a real system under visible pressure
+- it should begin with a woman building a real system under visible survival pressure
 
 ## Right page
 
