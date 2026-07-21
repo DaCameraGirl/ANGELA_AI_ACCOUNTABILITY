@@ -165,4 +165,4 @@ The highest-value next moves would be:
 1. save sanitized local copies of these workflow JSON files into the workspace
 2. create a dedicated spread for the July workflow exports
 3. compare these exports against any surviving local `.json` workflow files if they appear later
-
+4. inspect the July 24, 2025 attached `.eml` bundle for same-day stack traces and node JSON

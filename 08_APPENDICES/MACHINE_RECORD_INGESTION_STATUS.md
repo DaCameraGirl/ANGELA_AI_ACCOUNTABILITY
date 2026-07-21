@@ -77,6 +77,16 @@ From `08_APPENDICES/EMAIL_DISCOVERED_N8N_WORKFLOW_EXPORTS.md`:
   - explicit override-style expression:
     - `n8n-auto-generated-fromAI-override`
 
+### 5. Current-machine local `n8n` database state
+
+From `08_APPENDICES/LOCAL_N8N_DATABASE_SURVIVAL_STATUS.md`:
+
+- confirmed presence of local `C:\Users\enter\.n8n\database.sqlite`
+- confirmed absence of workflow id `BXkXB5scSsa1vt2F`
+- confirmed absence of execution id `2890`
+- confirmed current execution range only spans `169` through `309`
+- confirmed a separate archived local workflow named `My workflow`
+
 ## Not Yet Ingested As Raw Local Machine Logs
 
 The following layers are **referenced** but are **not yet present as raw log files inside the current book workspace slice**:
@@ -99,6 +109,7 @@ The book can already stage a credible **machine-facing layer**, but it should do
 
 - yes, it has concrete commands, filenames, error strings, and interface states
 - yes, it now has email-recovered `n8n` workflow export artifacts
+- yes, it now has a direct local-database verification layer for the current machine
 - no, it still does not yet have the full raw `OBS / n8n runtime-log / exported-log` package ingested into this workspace
 
 That distinction should stay visible in any future machine-record chapter or spread.
@@ -114,6 +125,7 @@ When available, the highest-value additions would be:
 5. screenshot bundles with stable filenames and dates
 6. any surviving `dom_log.txt`, `system_log.txt`, or related files
 7. full local copies of the July 2025 workflow export JSON files
+8. any older `.n8n` database or backup containing workflow id `BXkXB5scSsa1vt2F`
 
 ## Current Book Guidance
 
