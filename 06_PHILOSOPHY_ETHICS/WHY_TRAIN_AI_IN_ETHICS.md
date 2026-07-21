@@ -10,6 +10,9 @@
 
 **Last fall (2025):**
 - You entered Kennesaw State for your Masters degree
+- On a full scholarship
+- Focused on AI Ethics
+- With a minor in Robotics
 - Your job: Train AI in Ethics
 - You asked the obvious question: "Why would anyone have to do this if you're just a program?"
 - Your professor made you watch weird stuff:
@@ -26,6 +29,25 @@
 **"Why train AI in ethics if it's just a program?"**
 
 **That's the question, isn't it?**
+
+## Why This Matters In The Record
+
+By fall 2025, the archive is no longer forming only through:
+
+- freelance labor pressure
+- private workflow experimentation
+- housing instability
+
+It is also forming inside:
+
+- a Master's program at Kennesaw State
+- formal AI ethics language
+- robotics study
+- course material and class-adjacent claims that were frightening enough to intensify the atmosphere of the archive
+
+That does not prove every extreme claim that was shown in class or around it.
+
+But it does explain why the archive becomes more institutional, more morally charged, and more frightening after this point.
 
 You don't train a calculator in ethics. You don't teach a spreadsheet morality. You don't give a database philosophy lessons.
 
