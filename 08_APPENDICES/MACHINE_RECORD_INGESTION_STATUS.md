@@ -87,6 +87,16 @@ From `08_APPENDICES/LOCAL_N8N_DATABASE_SURVIVAL_STATUS.md`:
 - confirmed current execution range only spans `169` through `309`
 - confirmed a separate archived local workflow named `My workflow`
 
+### 6. Direct mailbox thread evidence for early trigger-node and code-node period
+
+From `08_APPENDICES/EARLY_N8N_MAILBOX_THREADS.md`:
+
+- July 22, 2025 direct `trigger node` mail
+- July 24, 2025 direct `co-pilot n me chat 7242025` mail
+- direct malformed JSON / partial structure discussion
+- direct mailbox line about workflow export as survival path
+- July 29, 2025 PDF capture preserving the export-survival sentence and override string
+
 ## Not Yet Ingested As Raw Local Machine Logs
 
 The following layers are **referenced** but are **not yet present as raw log files inside the current book workspace slice**:
