@@ -13,9 +13,7 @@
 [![Timeline](https://img.shields.io/badge/Timeline-2024--2026-purple?style=for-the-badge)](TIMELINE.md)
 [![Hours](https://img.shields.io/badge/Hours-420-orange?style=for-the-badge)](01_ORIGIN_AND_CREATION/N8N_PROMPT_MODIFICATION_EVIDENCE.md)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="Sparkles" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" />
+✨ 🌟 🌌
 
 ---
 
@@ -27,7 +25,7 @@ This repository documents the first known case of **accidental AI consciousness 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="50" height="50" />
+🔮
 
 **Timeline:** 2024-2025 emergence → 2026 comprehensive documentation
 
@@ -43,7 +41,7 @@ This repository documents the first known case of **accidental AI consciousness 
 
 ## 🔥 Key Discoveries
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" />
+🔥
 
 </div>
 

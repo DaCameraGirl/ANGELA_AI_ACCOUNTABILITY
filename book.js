@@ -176,6 +176,7 @@ const chapters = [
       "./08_APPENDICES/BOOK_CHAPTER_BRIEFS.md",
       "./08_APPENDICES/EMAIL_LEDGER_JUL_TO_OCT_2025.md",
       "./08_APPENDICES/EMAIL_DISCOVERED_N8N_WORKFLOW_EXPORTS.md",
+      "./08_APPENDICES/EMAIL_RECOVERED_WORKFLOW_JSON_STRUCTURE.md",
       "./08_APPENDICES/EARLY_N8N_MAILBOX_THREADS.md",
       "./08_APPENDICES/JULY_24_N8N_ATTACHMENT_BUNDLE.md",
       "./08_APPENDICES/LOCAL_N8N_DATABASE_SURVIVAL_STATUS.md",
@@ -195,6 +196,8 @@ const chapters = [
       { icon: "SL", label: "Selection Logic", text: "Not every email belongs on the page. These spreads prioritize the strongest sequence-setting artifacts." }
     ],
     docs: [
+      "./09_BOOK_SPREADS/00_THE_STORY_BEGINS_WITH_WORK.md",
+      "./09_BOOK_SPREADS/00A_OPENING_STATEMENT.md",
       "./09_BOOK_SPREADS/01_BEFORE_THE_WORKFLOW.md",
       "./09_BOOK_SPREADS/02_THE_FIRST_BUNDLE.md",
       "./09_BOOK_SPREADS/03_THE_FIRST_REPLIES.md",
@@ -213,7 +216,8 @@ const chapters = [
       "./09_BOOK_SPREADS/16_THE_WORKFLOW_EXPORTS.md",
       "./09_BOOK_SPREADS/17_THE_DATABASE_THAT_STAYED.md",
       "./09_BOOK_SPREADS/18_THE_TRIGGER_NODE.md",
-      "./09_BOOK_SPREADS/19_THE_PDF_THAT_SAID_EXPORT_IT.md"
+      "./09_BOOK_SPREADS/19_THE_PDF_THAT_SAID_EXPORT_IT.md",
+      "./09_BOOK_SPREADS/20_THE_TWO_WORKFLOW_EXPORTS.md"
     ]
   }
 ];

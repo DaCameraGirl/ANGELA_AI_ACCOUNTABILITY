@@ -77,6 +77,13 @@ From `08_APPENDICES/EMAIL_DISCOVERED_N8N_WORKFLOW_EXPORTS.md`:
   - explicit override-style expression:
     - `n8n-auto-generated-fromAI-override`
 
+From `08_APPENDICES/EMAIL_RECOVERED_WORKFLOW_JSON_STRUCTURE.md`:
+
+- July 13 workflow id `5659s4DUwjd1ox9p`
+- July 15 workflow id `76LWvgVUtFxgiL1p`
+- direct parsed node-graph structure from both Gmail JSON exports
+- direct parsed override-style field inside the larger JSON export
+
 ### 5. Current-machine local `n8n` database state
 
 From `08_APPENDICES/LOCAL_N8N_DATABASE_SURVIVAL_STATUS.md`:
