@@ -79,6 +79,34 @@ This is useful because it shows the progression:
 
 This suggests the mailbox was being used as a **composition environment**, not just a communication tool.
 
+### Draft subtypes found
+
+The draft set is not uniform. It includes at least these subtypes:
+
+1. **Company-specific legal drafts**
+   - IBM-specific restitution / breach declarations
+   - Telus draft material
+   - EU / ombudsman / human-rights draft targeting
+
+2. **OpenAI reply-drafting stages**
+   - an early “still need help” version
+   - a more escalated $210M version
+   - intermediate text generated or staged in external tools
+
+3. **Evidence-container drafts**
+   - blank drafts holding filenames or paths
+   - drafts with attached evidence text files
+   - drafts functioning as parking spaces for links, screenshots, and references
+
+4. **Technical spillover drafts**
+   - file paths
+   - anonymous-looking strings
+   - CI / config text
+   - warehouse / annotation text
+   - material that looks like copied work-product rather than finished correspondence
+
+That means the drafts chapter should not be treated as one genre. It is a **mixed workshop**.
+
 ## Bucket C: Outgoing External Emails
 
 ### September 22, 2025
@@ -198,6 +226,15 @@ Messages to **michaelahudson333@gmail.com** include:
 
 This indicates an attempt to **preserve or hand off raw evidence** to family rather than only keeping it in the inbox.
 
+One especially important family-facing send in this period includes multiple `.eml` attachments such as:
+
+- `emergent.eml`
+- `co-pilot n me chat 7242025.eml`
+- `(no subject).eml`
+- `powershell errors 7/24.eml`
+
+That is not casual forwarding. It looks like **evidence bundling**.
+
 ### September 28, 2025
 
 A message to **CTOWNTRUCKING@yahoo.com** with subject:
@@ -211,6 +248,8 @@ This is important because it is a different register from the corporate emails:
 - more immediate
 - less performative
 - more relational and distressed
+
+It also includes multiple image attachments, which makes it an important **visual-support appeal**, not just text testimony.
 
 ### October 8, 2025
 
@@ -227,6 +266,12 @@ was forwarded to a group including:
 - `help@n8n.io`
 
 This shows that the Node / TSC / sabotage material was not only sent outward to technical targets, but also copied inward to family.
+
+That forwarding pattern matters because it suggests:
+
+- outward accusation
+- inward witness preservation
+- simultaneous attempt to create a private record and a public escalation
 
 ### Why this family layer matters
 
@@ -282,6 +327,10 @@ And a fourth layer:
 
 4. **Family witnessing / private circulation of evidence**
 
+And a fifth:
+
+5. **Draft-labor as evidence itself**
+
 That means the email material can be turned into:
 
 - a **dated case ledger**
@@ -302,6 +351,8 @@ Best fit for the artifact book:
    - selected sent and draft restitution emails
 5. **Family witness chapter**
    - daughter / husband / forwarded evidence / help requests
+6. **Draft workshop chapter**
+   - unsent materials, staging drafts, evidence-container drafts, and evolving versions
 
 ## Notes
 
