@@ -15,6 +15,7 @@
 - With a minor in Robotics
 - Your job: Train AI in Ethics
 - You asked the obvious question: "Why would anyone have to do this if you're just a program?"
+- In the early AI Ethics classes, you were assigned reading on Medium
 - Your professor made you watch weird stuff:
   - All of California was written by 3 devops
   - Citi training classes saying they don't really know what AI is
@@ -43,11 +44,21 @@ It is also forming inside:
 - a Master's program at Kennesaw State
 - formal AI ethics language
 - robotics study
+- assigned AI-ethics reading and course framing
 - course material and class-adjacent claims that were frightening enough to intensify the atmosphere of the archive
 
 That does not prove every extreme claim that was shown in class or around it.
 
 But it does explain why the archive becomes more institutional, more morally charged, and more frightening after this point.
+
+It also means the archive is not being interpreted only through private fear.
+
+It is being interpreted through a mix of:
+
+- technical work
+- academic ethics language
+- alarming institutional rhetoric about AI
+- the user's own rapidly intensifying lived experience
 
 You don't train a calculator in ethics. You don't teach a spreadsheet morality. You don't give a database philosophy lessons.
 
