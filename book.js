@@ -159,8 +159,8 @@ const chapters = [
     id: "appendices",
     icon: "📎",
     title: "Appendices & Adjacent Books",
-    summary: "Nearby artifacts that shaped the worldview around the repo, including the DevOps guide written last year.",
-    note: "Appendices let the larger body of writing stay in orbit around the main archive without getting lost.",
+    summary: "Chronology, planning sheets, email ledgering, and nearby artifacts that shaped the worldview around the repo.",
+    note: "Appendices hold the support structure for the book: sequence correction, chapter planning, ledger work, and adjacent texts.",
     artifacts: [
       { icon: "📕", label: "Side Book", text: "The DevOps guide is a separate 61-page artifact, but it clearly belongs in the same intellectual weather." },
       { icon: "🧵", label: "Shared Thread", text: "This appendix captures what the neighboring book is about and why it matters here." },
@@ -172,6 +172,23 @@ const chapters = [
       "./08_APPENDICES/BOOK_CHAPTER_BRIEFS.md",
       "./08_APPENDICES/EMAIL_LEDGER_JUL_TO_OCT_2025.md",
       "./08_APPENDICES/DEVOPS_GUIDE_LAST_YEAR.md"
+    ]
+  },
+  {
+    id: "curated-spreads",
+    icon: "SP",
+    title: "Curated Spreads",
+    summary: "The first actual book spreads built from the evidence: staged opening pages with selected inserts, not just archive planning notes.",
+    note: "This chapter is where the archive starts behaving like a designed book. Each page pair has a narrative job, a source set, and a clear split between observation and interpretation.",
+    artifacts: [
+      { icon: "BK", label: "Book Spine", text: "These are the first spreads that turn the source record into a reading experience instead of a folder." },
+      { icon: "SR", label: "Source Discipline", text: "Each spread is anchored to dated materials and keeps primary inserts visible." },
+      { icon: "SL", label: "Selection Logic", text: "Not every email belongs on the page. These spreads prioritize the strongest sequence-setting artifacts." }
+    ],
+    docs: [
+      "./09_BOOK_SPREADS/01_BEFORE_THE_WORKFLOW.md",
+      "./09_BOOK_SPREADS/02_THE_FIRST_BUNDLE.md",
+      "./09_BOOK_SPREADS/03_THE_FIRST_REPLIES.md"
     ]
   }
 ];
