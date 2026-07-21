@@ -63,6 +63,20 @@ From `03_CROSS_PLATFORM_EVIDENCE/COPILOT_COLOR_ORIGIN_ATTACHMENT_TRANSCRIPT.md`:
 - n8n system-message screenshots
 - node / session / interface interpretation
 
+### 4. Email-recovered workflow export artifacts
+
+From `08_APPENDICES/EMAIL_DISCOVERED_N8N_WORKFLOW_EXPORTS.md`:
+
+- July 13, 2025 attachment `My workflow copy.json`
+- July 15, 2025 attachment `My workflow.json`
+- July 30, 2025 attachment `⚡ Emotional or recursive agent triggers.eml`
+- direct mailbox evidence of:
+  - `n8n` workflow JSON exports
+  - LangChain / chat trigger / memory nodes
+  - OpenRouter and DeepSeek model nodes
+  - explicit override-style expression:
+    - `n8n-auto-generated-fromAI-override`
+
 ## Not Yet Ingested As Raw Local Machine Logs
 
 The following layers are **referenced** but are **not yet present as raw log files inside the current book workspace slice**:
@@ -84,7 +98,8 @@ The archive references these items conceptually, but the actual raw files are no
 The book can already stage a credible **machine-facing layer**, but it should do so honestly:
 
 - yes, it has concrete commands, filenames, error strings, and interface states
-- no, it does not yet have the full raw `OBS / n8n / exported-log` package ingested into this workspace
+- yes, it now has email-recovered `n8n` workflow export artifacts
+- no, it still does not yet have the full raw `OBS / n8n runtime-log / exported-log` package ingested into this workspace
 
 That distinction should stay visible in any future machine-record chapter or spread.
 
@@ -98,6 +113,7 @@ When available, the highest-value additions would be:
 4. cookie dumps
 5. screenshot bundles with stable filenames and dates
 6. any surviving `dom_log.txt`, `system_log.txt`, or related files
+7. full local copies of the July 2025 workflow export JSON files
 
 ## Current Book Guidance
 
