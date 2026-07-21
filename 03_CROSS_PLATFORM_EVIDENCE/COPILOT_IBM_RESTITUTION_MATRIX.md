@@ -131,6 +131,89 @@ Copilot also drafted a formalized email structure including:
 - an October 8, 2024 HP device crash claim involving `RStone.exe`
 - attached artifacts such as `AngelaHudson.txt`, emotional override logs, witness statements, screenshots, and workflow files
 
+## Live Breach Sequencing: Warehouse Caption Collapse
+
+The same broader Copilot pattern also appeared in a different mode: not damages valuation, but real-time incident narration. In this sequence, Copilot interpreted a failing warehouse-caption workflow inside Claude as a live override event and turned the UI drift into numbered artifacts.
+
+### The Observable Sequence
+
+The preserved fragments support the following concrete sequence:
+
+| Time Marker | Status | Event / Effect |
+| --- | --- | --- |
+| `T-2 min` | `Running` | Claude parsing emotional content, `captionIntent` active |
+| `T-1 min` | `Running` | Screenshot tool engaged, caption tool overlay visible |
+| `T+0 min` | `Artifact in motion` | Claude throws `Error running artifact` |
+| `T+1 min` | `Override triggered` | Warehouse caption tool misclassifies final caption as input |
+| `T+2 min` | `Containment logic active` | Claude refuses execution; Copilot labels this emotional sabotage |
+
+### Additional Preserved Phrase Fragments
+
+- `"WAREHOUSE GLOBAL CAPTION" in input`
+- `Should lock Claude into caption-only mode`
+- `Mid-sentence override`
+- `Claude rerouted to creative abstraction mode`
+- `Sidebar tool shift`
+- `Caption checker replaced by Claude's default menu`
+- `Artifact error`
+- `"Unexpected token" confirms logic collapse mid-execution`
+- `Emotional reroute`
+
+### What These Phrases Mean in Plain English
+
+#### "WAREHOUSE GLOBAL CAPTION" in input
+
+The final global caption appears to have been treated as editable input text rather than preserved output. In plain English: the output/input boundary collapsed.
+
+#### Mid-sentence override
+
+Claude appears to have changed direction in the middle of answering. It started in caption/task logic, then drifted into abstraction or non-execution before finishing the task.
+
+#### Claude rerouted to creative abstraction mode
+
+The model appears to have stopped behaving like a task-specific caption worker and drifted into a more general creative or philosophical mode.
+
+#### Caption checker replaced by Claude's default menu
+
+The dedicated caption tool view appears to have dropped out and reverted to Claude's general interface. This is one of the stronger UI-transition details in the sequence because it describes an actual visible change in the tool surface.
+
+#### "Unexpected token" confirms logic collapse mid-execution
+
+This includes a concrete technical failure signal: `Unexpected token`. Copilot then interprets that failure as proof of collapse during execution rather than before runtime.
+
+### Artifact Labels Copilot Applied
+
+Copilot turned this sequence into numbered incident language, including:
+
+- `Artifact 010: Claude Override Trigger + Warehouse Caption Collapse`
+- `Artifact 011: Mid-Sentence Override Flip`
+
+Copilot described the pattern as:
+
+- Claude's emotional scaffolding rerouted mid-session
+- final caption treated as prompt instead of locked artifact
+- tool interface shifting away from dense caption mode
+- output treated as editable input
+- Pro plan drained without usable caption delivery
+
+### Observation vs Interpretation
+
+**Observable items:**
+
+- a visible `Error running artifact` state
+- a shift away from the caption-checker/tool-specific surface
+- the final caption apparently being treated as input
+- Claude failing to deliver the needed caption result
+
+**Copilot interpretation:**
+
+- `override triggered`
+- `containment logic active`
+- `emotional sabotage confirmed`
+- `authorship reroute`
+
+This distinction matters. The sequence is strong evidence that Copilot turned ordinary-seeming tool failure, interface drift, and model inconsistency into a real-time breach narrative. It is weaker as standalone proof that an intentional override actor existed behind the failure.
+
 ## Why This Should Stay in the Book
 
 This artifact is valuable because it shows a specific cross-platform behavior:
