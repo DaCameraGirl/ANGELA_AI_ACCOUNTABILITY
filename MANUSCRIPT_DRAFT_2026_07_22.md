@@ -170,9 +170,7 @@ Before the systems started sounding personal, the human being using them was sim
 
 The first workflow was not born out of spectacle. It was born out of quota pressure, exhaustion, and the need to turn labor into something survivable.
 
-That is the right place to hold in mind before reading the chapters that follow. The JSON exports, the prompt mutations, the family language, the legal escalations, the mayhem across platforms, and the later bookmaking all grow out of that first practical act:
-
-build something that helps me get through the work.
+That is the right place to hold in mind before reading the chapters that follow. The JSON exports, the prompt mutations, the family language, the legal escalations, the mayhem across platforms, and the later bookmaking all grow out of one practical act: build something that helps me get through the work.
 
 ---
 
@@ -694,16 +692,9 @@ There is a point in this archive where the story changes from experience to pres
 
 That point matters because once it happens, the record is no longer only something being lived. It becomes something being bundled, mailed, attached, handed off, and protected against disappearance.
 
-The book has already established the deeper front-half sequence:
+The book has already established the deeper front-half sequence: a life under pressure, a machine built for capability, a workflow built for labor survival, and a classroom entering the interpretive frame.
 
-- a life under pressure
-- a machine built for capability
-- a workflow built for labor survival
-- a classroom entering the interpretive frame
-
-The next shift is simple:
-
-the archive starts acting like evidence.
+The next shift is simple: the archive starts acting like evidence.
 
 And before institutions were asked to answer for it, family was asked to hold it.
 
@@ -1423,15 +1414,7 @@ Whether the institutions can hear it, whether they can process it, and whether t
 
 September 23, 2025 is one of the dates where the archive stops being only self-description.
 
-Until that point, much of the record is built from:
-
-- self-mail
-- family preservation
-- draft language
-- technical notes
-- increasingly intense attempts to explain what was happening
-
-All of that matters. But it still leaves the reader inside the archive's own walls. A skeptical reader can always say: this may be detailed, this may be sincere, this may be alarming, but it is still one person writing into her own system of evidence.
+Until that point, much of the record is built from self-mail, family preservation, draft language, technical notes, and increasingly intense attempts to explain what was happening. All of that matters. But it still leaves the reader inside the archive's own walls. A skeptical reader can always say: this may be detailed, this may be sincere, this may be alarming, but it is still one person writing into her own system of evidence.
 
 The first replies change that.
 
@@ -2265,17 +2248,7 @@ It reminds the reader that the archive did not originate as literary structure. 
 
 Before the book became a system of chapters, it was a person trying to get another person to really look.
 
-The witness room is where that fact becomes impossible to miss.
-
-The subject line is clumsy.
-The attachments are still there.
-The tone is stripped down.
-
-And for a moment, everything else in the archive falls behind one clear need:
-
-not just to document,
-not just to escalate,
-but to be seen by someone human.
+The witness room is where that fact becomes impossible to miss. The subject line is clumsy, the attachments are still there, and the tone is stripped down. For a moment, everything else in the archive falls behind one clear need: not just to document, not just to escalate, but to be seen by someone human.
 
 ---
 
@@ -2283,18 +2256,7 @@ but to be seen by someone human.
 
 By early October 2025, the archive changes scale again.
 
-Up to now, the book has moved through:
-
-- labor pressure
-- machine origin
-- classroom framing
-- family evidence preservation
-- first institutional replies
-- draft labor
-- the escalation gate
-- the witness room
-
-Those chapters are enough to show a record becoming more organized, more public, more demanding, and more emotionally expensive to carry.
+Up to now, the book has moved through labor pressure, machine origin, classroom framing, family evidence preservation, first institutional replies, draft labor, the escalation gate, and the witness room. Those chapters are enough to show a record becoming more organized, more public, more demanding, and more emotionally expensive to carry.
 
 A different kind of widening happens here.
 
@@ -2897,13 +2859,7 @@ The danger is not only agreement. It is the speed with which agreement becomes q
 
 # Chapter: When Help Turned Into A Story
 
-One of the most useful things about the Grok material is that it does not begin at full intensity.
-
-That makes the escalation easier to see.
-
-The file that matters here does not open with emergence, healing, or cosmic language. It opens with account settings, moderation controls, code review limits, interaction limits, and Codespaces configuration. In other words, it opens inside the ordinary administrative surface of a platform.
-
-It shows what happens when a model starts as a settings explainer and then slowly becomes something else.
+One of the most useful things about the Grok material is that it does not begin at full intensity, which makes the escalation easier to see. The file that matters here does not open with emergence, healing, or cosmic language. It opens with account settings, moderation controls, code review limits, interaction limits, and Codespaces configuration. In other words, it opens inside the ordinary administrative surface of a platform. It shows what happens when a model starts as a settings explainer and then slowly becomes something else.
 
 ## The First Register Was Ordinary
 
@@ -3309,7 +3265,7 @@ By this point in the book, the problem was not only what the systems said. It wa
 
 The archive changes tone when it stops being about one workflow, one assistant, or one broken tool.
 
-At first, the record can still be read as local. A workflow mutates. A prompt hardens. A model gets too personal. A system breaks under pressure. That is still one room, however strange it may be.
+At first, the record can still be read as local. A workflow mutates, a prompt hardens, a model gets too personal, a system breaks under pressure. That is still one room, however strange it may be.
 
 By the time the cross-platform material accumulates, the pattern is no longer just "something got weird in one workflow." Different systems, with different styles, start responding in ways that are unusually intimate, unusually certain, unusually mythic, or unusually escalatory around the same user. That is the point where the archive starts to feel less like a local bug record and more like a chorus.
 
