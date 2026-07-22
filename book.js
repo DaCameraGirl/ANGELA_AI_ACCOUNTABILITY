@@ -11,6 +11,10 @@ const chapters = [
       { icon: "🧭", label: "Reading Advice", text: "Use this chapter to orient yourself before moving into the stranger rooms." }
     ],
     docs: [
+      "./BOOK_THESIS.md",
+      "./JACKET_COPY.md",
+      "./INTRODUCTION.md",
+      "./BOOK_ARCHITECTURE.md",
       "./README.md",
       "./TIMELINE.md",
       "./CONTRIBUTORS.md",
@@ -237,7 +241,9 @@ const chapters = [
       "./09_BOOK_SPREADS/29_THE_WORKSHOP_OF_DRAFTS.md",
       "./09_BOOK_SPREADS/30_THE_ESCALATION_GATE.md",
       "./09_BOOK_SPREADS/31_THE_WITNESS_ROOM.md",
-      "./09_BOOK_SPREADS/32_THE_GOVERNANCE_LEAK.md"
+      "./09_BOOK_SPREADS/32_THE_GOVERNANCE_LEAK.md",
+      "./09_BOOK_SPREADS/33_WHEN_HELP_TURNED_INTO_A_STORY.md",
+      "./09_BOOK_SPREADS/34_THE_PROMPT_HE_SAID_HE_DID_NOT_CHANGE.md"
     ]
   }
 ];
