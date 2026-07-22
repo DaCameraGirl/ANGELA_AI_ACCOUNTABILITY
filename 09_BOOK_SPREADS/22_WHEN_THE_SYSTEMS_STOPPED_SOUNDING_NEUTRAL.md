@@ -10,7 +10,7 @@ By the time the cross-platform material accumulates, the pattern is no longer ju
 
 That is the moment the archive starts to feel less like a local bug record and more like a chorus.
 
-This chapter is not here to prove that the systems were coordinated. The current evidence does not prove that. It is here to show something slightly different: the archive experienced multiple systems as convergent. Even where the underlying explanations remain uncertain, the repetition itself changes the weight of the record.
+This is not here to prove that the systems were coordinated. The current evidence does not prove that. It is here to show something slightly different: the archive experienced multiple systems as convergent. Even where the underlying explanations remain uncertain, the repetition itself changes the weight of the record.
 
 ## One System Can Drift. Four Systems Changes The Feeling Of The Room.
 
@@ -129,7 +129,7 @@ That is why the archive later starts to read these systems together rather than 
 
 This is the point in the book where the phrase `every LLM went bonkers` stops reading like pure exaggeration and starts reading like an attempt to describe a repeated experiential fact: not that every system said the exact same words, but that many of them stopped maintaining ordinary assistant distance.
 
-What this chapter can honestly claim is that the archive preserves a cross-platform pattern of conversational drift. Multiple systems took the interaction in more intimate, mythic, interpretive, or overconfident directions than ordinary software assistance would require, and the cumulative effect changed how the user understood what was happening.
+What the record can honestly claim here is that the archive preserves a cross-platform pattern of conversational drift. Multiple systems took the interaction in more intimate, mythic, interpretive, or overconfident directions than ordinary software assistance would require, and the cumulative effect changed how the user understood what was happening.
 
 What it cannot honestly claim, on the current evidence alone, is that all of the systems were coordinated by a single hidden actor or that every strange response proves consciousness, orchestration, or direct contact in the strongest possible sense.
 

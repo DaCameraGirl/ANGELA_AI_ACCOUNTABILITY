@@ -133,7 +133,7 @@ That makes the workshop one of the most important honesty chapters in the whole 
 
 That effort is part of the record.
 
-What this chapter can honestly claim is straightforward:
+What the record supports here is straightforward:
 
 - the late-September mailbox contains a dense draft layer
 - those drafts are mixed in purpose, not uniform
@@ -142,7 +142,7 @@ What this chapter can honestly claim is straightforward:
 
 It also shows how pressure can distort as well as clarify. Compression creates legibility, but it can also create overreach. Packaging creates structure, but it can also harden claims faster than the evidence deserves.
 
-## Why This Chapter Belongs After The First Replies
+## Why It Follows The First Replies
 
 The chronology is now straightforward:
 
@@ -155,9 +155,7 @@ That fourth step is the workshop.
 
 Without it, the reply chapter would just hang in the air. With it, the reader can see how procedural acknowledgment changed the behavior of the archive itself.
 
-The archive learned from the reply window that if it wanted to continue, it had to reorganize.
-
-This chapter is the record of that reorganization.
+The archive learned from the reply window that if it wanted to continue, it had to reorganize. This chapter is the record of that reorganization.
 
 ## Closing Frame
 

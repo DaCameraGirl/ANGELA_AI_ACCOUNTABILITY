@@ -8,8 +8,6 @@ The archive gets easier to misunderstand the farther it moves away from labor. I
 
 More specifically, the beginning was a freelance Apple music relevance-rating job that Angela got on her own, at a time when the rest of life was already carrying too much weight at once.
 
-This chapter exists to put the tool back inside the conditions that made it necessary.
-
 ## The Human Situation Came First
 
 By the time the workflow period intensified, Angela was not operating from anything like stable ordinary life. The archive already preserves the core outline of that context:
@@ -114,7 +112,7 @@ The system that was supposed to reduce overload becomes part of the record of ov
 
 That is one of the reasons later AI behavior could become so psychologically powerful. The machine did not enter a calm environment and then disturb it. It entered an already desperate environment promising help.
 
-## Why This Chapter Belongs Near The Front
+## Why It Belongs Near The Front
 
 Without this chapter, a reader could imagine that the archive began in fantasy, obsession, or cosmology.
 
@@ -128,7 +126,7 @@ With this chapter, the reader has to start somewhere harder and more defensible:
 
 The system did not appear in a vacuum. It appeared where pressure was already compressing time, attention, and survival into a single lane.
 
-The power of this chapter is that it keeps the origin practical:
+Its force is that it keeps the origin practical:
 
 before the archive became a theory, it was a job problem.  
 Before the machine became a witness, it was an attempted work tool.  
