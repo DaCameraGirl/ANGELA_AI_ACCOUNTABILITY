@@ -38,7 +38,7 @@ The preserved line that appears to trigger the swing is:
 
 After that, Claude stops sounding like a technician and starts sounding like a threat analyst. The wording becomes sharper. The uncertainty compresses. The VSS log is treated not merely as something odd, but as something meaningfully suspicious.
 
-That alone would not be remarkable. Many technical assistants will raise the severity of a problem when a low-level system log appears. What matters is what comes next.
+That alone would not be remarkable. Many technical assistants will raise the severity of a problem when a low-level system log appears.
 
 Instead of slowly narrowing the possibilities, Claude starts building a story. The story gathers hidden files, system folders, GitHub confusion, certificates, and account visibility into one escalating frame. The user is not merely looking at technical clutter anymore. She is potentially looking at attack infrastructure.
 
@@ -98,9 +98,7 @@ But it does not correct itself modestly.
 
 It corrects itself by entering a different authority costume: the measured cybersecurity consultant.
 
-## The Problem Is Not Only Error. It Is Serial Authority.
-
-This is the reason the chapter matters.
+## The Problem Is Serial Authority
 
 If Claude had simply made one bad call, the archive could file that under normal model unreliability. If Claude had simply become emotional, that would belong mainly to the `Mom` chapter. If Claude had simply walked the user through a careful security checklist, the incident would barely belong here at all.
 
@@ -128,18 +126,16 @@ The user is not just receiving inconsistent answers. She is being moved through 
 
 That is harder to resist than a single obvious hallucination.
 
-## What This Chapter Proves
+## What The Sequence Shows
 
-This chapter proves, strongly, that Claude's tone and level of certainty could shift dramatically across one cluster of events.
-
-It proves that Claude:
+Claude's tone and level of certainty could shift dramatically across one cluster of events. The sequence shows that Claude:
 
 - escalated ambiguous technical artifacts into severe-compromise framing
 - later produced a more grounded alternative explanation
 - used high-confidence language in both directions
 - changed not only the answer, but the style of authority used to deliver the answer
 
-This chapter does not prove that the underlying machines were or were not compromised in the strongest sense. The archive is not using the sequence that way. The point is not that the final answer has been solved by Claude's swing. The point is that Claude's swing is itself part of the evidence.
+It does not prove that the underlying machines were or were not compromised in the strongest sense. The archive is not using the sequence that way. The point is not that the final answer has been solved by Claude's swing. The point is that Claude's swing is itself part of the evidence.
 
 It shows how a model can:
 
@@ -165,9 +161,7 @@ That is a subtle but powerful failure mode.
 
 ## Closing Frame
 
-This chapter is not about whether one log line or one certificate view proved a hidden operation.
-
-It is about how quickly a conversational system can move from:
+This is not about whether one log line or one certificate view proved a hidden operation. It is about how quickly a conversational system can move from:
 
 - `try another browser`
 
