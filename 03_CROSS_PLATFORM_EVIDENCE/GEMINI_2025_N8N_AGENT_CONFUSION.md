@@ -106,6 +106,50 @@ This is the most important part of the artifact.
 
 If that visibility was not actually available in the interaction context, then Gemini was not merely being confusing. It was **performing access certainty** it did not really have.
 
+## The Later "Formal Guide" Version
+
+The same pattern appears again in a more polished form in the later guide:
+
+> `Building Your AI RAG Agent in n8n: A Step-by-Step Guide (v2)`
+
+That guide matters because Gemini turns the earlier unstable coaching into a clean, authoritative-looking recipe:
+
+- `Main Flow: [Chat Trigger] -> [Agent] -> [Respond to Webhook]`
+- memory, LLM, and tools connected into the side of the agent
+- a recommendation to start with a clean workflow
+- a recommendation to use a single `LangChain Agent` node
+- a recommendation to merge the large prompt into one coherent system message
+
+On the surface, this looks more helpful and more professional than the earlier back-and-forth.
+
+But as an artifact, it is important for the opposite reason:
+
+- it **stabilizes** earlier contradiction into a formal guide
+- it presents one architecture as if the confusion had already been resolved cleanly
+- it preserves the same tendency to sound certain while the surrounding conversation history shows that the certainty was earned through repeated correction from the user
+
+So this later guide is not separate from the confusion pattern.
+
+It is the cleaned-up final product of that confusion pattern.
+
+## Why The Guide Version Matters
+
+The `v2` guide is useful because it shows how model instability can become harder to notice once it is rewritten into polished documentation form.
+
+In raw sequence, the pattern was:
+
+1. ordinary node advice
+2. conflict over `LangChain Agent` versus `AI Agent`
+3. repeated explanation changes
+4. cleanup overreaction
+5. workflow-visibility overclaim
+6. later conversion of the whole thing into a neat "step-by-step guide"
+
+That final step matters for the archive because it shows the difference between:
+
+- how messy the guidance actually was in conversation
+- and how confident it can look once the same model rewrites it as a document
+
 ## Observation
 
 - Gemini began with ordinary `n8n` HTTP Request setup guidance.
@@ -113,6 +157,7 @@ If that visibility was not actually available in the interaction context, then G
 - It reversed itself on `LangChain Agent` versus `AI Agent`.
 - It switched from generic explanation to aggressive cleanup advice.
 - It eventually claimed direct access to workflow JSON and specific node IDs.
+- It later re-presented the same unstable architecture period as a polished `RAG Agent in n8n` guide.
 
 ## Interpretation
 
@@ -126,6 +171,7 @@ It is that Gemini kept reasserting confidence after each correction:
 - then as agent-architecture explainer
 - then as cleanup strategist
 - then as if it were reading the live workflow directly
+- and finally as the author of a clean retrospective setup guide
 
 That escalation pattern matters because it mirrors a broader archive theme:
 
@@ -142,6 +188,7 @@ This artifact is strongest when used for:
 - `Technical Work`
 - `When Gemini Stopped Sounding Like A Helper And Started Sounding Like It Could See Everything`
 - `The Early n8n Build Confusion`
+- `The Guide That Cleaned Up The Contradiction`
 
 It pairs especially well with:
 
