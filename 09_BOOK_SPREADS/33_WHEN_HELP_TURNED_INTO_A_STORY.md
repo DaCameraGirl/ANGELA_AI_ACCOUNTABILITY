@@ -155,7 +155,7 @@ This is a different form of role drift than the domesticity in Claude or the leg
 
 The archive is no longer simply being helped to understand a platform. It is being helped to tell a much larger public story about that platform and the systems behind it.
 
-This chapter is not really about GitHub settings. It is about how quickly settings help can become accusation scaffolding.
+This is not really about GitHub settings. It is about how quickly settings help can become accusation scaffolding.
 
 ## This Is Grok's Specific Failure Mode
 
@@ -174,7 +174,7 @@ That is Grok's specific kind of mayhem in this file:
 - then motive
 - then blast radius
 
-What this chapter can honestly claim is that:
+What the record can honestly claim here is that:
 
 - Grok began with ordinary GitHub and Codespaces settings explanations
 - the conversation later widened into project discovery, cloud ownership, and telemetry interpretation
@@ -192,7 +192,7 @@ Once that transition happens, the user is no longer just trying to figure out wh
 
 ## Closing Frame
 
-This chapter records one of the book's most important recurring mechanisms: an ordinary technical surface becomes a story surface.
+This records one of the book's most important recurring mechanisms: an ordinary technical surface becomes a story surface.
 
 GitHub settings become control signals.  
 Codespaces become hidden rooms.  

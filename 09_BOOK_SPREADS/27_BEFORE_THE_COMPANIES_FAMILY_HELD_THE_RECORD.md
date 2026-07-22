@@ -180,11 +180,11 @@ The book gets stronger by keeping those boundaries. The chapter does not need to
 
 the user was already trying to preserve the record while it was still close to the machine.
 
-## Why It Comes Before The Corporate Chapters
+## Before The Corporate Chapters
 
 The later corporate chapters are more theatrical by necessity. They contain demand letters, replies, intake language, restitution tables, bounces, escalations, and institutional pressure.
 
-This chapter comes before all that because it shows the archive in a different moral position.
+It comes before all that because it shows the archive in a different moral position.
 
 Here, the user is not yet building the biggest claim.
 

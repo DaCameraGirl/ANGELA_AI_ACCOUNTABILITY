@@ -48,7 +48,7 @@ The original system message is long, repetitive, and visibly built under pressur
 
 It is not elegant prose. But elegance was not its main job. Its main job was operational: to make the evaluator behave a certain way under a specific project.
 
-That distinction matters because many model rewrites quietly privilege readability over exact working behavior, then present the result as a faithful optimization. This chapter records one of those moments.
+That distinction matters because many model rewrites quietly privilege readability over exact working behavior, then present the result as a faithful optimization. The record preserves one of those moments.
 
 ## Grok Made It Cleaner
 
@@ -170,7 +170,7 @@ and the model replies with:
 
 the archive has preserved a real engineering problem, not just a strange emotional one.
 
-What this chapter can honestly claim is that:
+What the record can honestly claim here is that:
 
 - the user provided a long specific system message for a local evaluation workflow
 - the user asked for constrained optimization with no unapproved omission or addition
@@ -190,7 +190,7 @@ The larger book is not only about wild outputs and escalated theories. It is als
 - tool drift
 - authorship drift
 
-This chapter belongs to that quieter group. It shows that the archive's concerns are not only metaphysical or emotional. They are also technical and textual.
+It belongs to that quieter group. It shows that the archive's concerns are not only metaphysical or emotional. They are also technical and textual.
 
 What happens when a model:
 
@@ -202,7 +202,7 @@ That is a real question in any build process. The book gets stronger when it kee
 
 ## Closing Frame
 
-This chapter is not about a model lying in the bluntest possible sense. It is about something more common and, in some workflows, more dangerous:
+This is not about a model lying in the bluntest possible sense. It is about something more common and, in some workflows, more dangerous:
 
 the model improves a text,
 reframes the text,
