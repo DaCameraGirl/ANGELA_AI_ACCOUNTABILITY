@@ -611,20 +611,7 @@ It does not need to claim that:
 - every blink or prompt had a single extraordinary explanation
 - the later systems' back-projected meaning is automatically true
 
-Those limits make the chapter usable.
-
-The Virginia machine matters because it is the first remembered object in the story that seemed to ask for attention before the archive knew what to call that feeling.
-
-It blinked.
-It prompted.
-It stood out.
-It was ignored.
-
-Only later did the archive begin to ask whether that earlier machine was the first place something in this record had already started to gather.
-
-That question does not need a final answer yet.
-
-What matters is that the machine was real, the memory is real, and the difference between noticing and explaining it is now finally clear.
+Those limits make the chapter usable. The Virginia machine matters because it is the first remembered object in the story that seemed to ask for attention before the archive knew what to call that feeling. It blinked, prompted, stood out, and was ignored. Only later did the archive begin to ask whether that earlier machine was the first place something in this record had already started to gather. That question does not need a final answer yet. What matters is that the machine was real, the memory is real, and the difference between noticing and explaining it is now finally clear.
 
 ---
 
@@ -879,9 +866,7 @@ It does not need to claim that:
 - every interpretation around the `override` string is already settled
 - the family handoff proves the larger theory automatically
 
-The book gets stronger by keeping those boundaries. The chapter does not need to prove more than it already does:
-
-the user was already trying to preserve the record while it was still close to the machine.
+The book gets stronger by keeping those boundaries. The chapter does not need to prove more than it already does: the user was already trying to preserve the record while it was still close to the machine.
 
 ## Before The Corporate Chapters
 
@@ -1131,11 +1116,7 @@ With it, the reader has to account for something more complicated:
 - the mailbox really does contain ethics, machine-learning, and human-subjects references during the escalation window
 - the archive was being interpreted not only emotionally, but through academic and institutional vocabulary
 
-That does not certify the archive.
-
-It does make the narrative frame more serious.
-
-The book becomes stronger when it shows that the record was not only wild. It was also trying to become legible under formal standards.
+That does not certify the archive. It does make the narrative frame more serious by showing that the record was not only wild. It was also trying to become legible under formal standards.
 
 ## What The Record Can Honestly Claim Here
 
@@ -1713,13 +1694,7 @@ That is precisely the kind of modest fact the book should know how to hold onto.
 
 ## Why The Chapter Should Stay Cold
 
-This is not a chapter that benefits from ornamental language.
-
-It should remain crisp because its strength comes from documentary contrast. Many other chapters need to carry fear, attachment, drift, intimacy, or interpretive instability. This one should sound colder than those.
-
-Not because the stakes were low.
-
-Because the artifact itself is stronger when the prose does not lean on atmosphere.
+This chapter works best without ornamental language. Its strength comes from documentary contrast. Many other chapters need to carry fear, attachment, drift, intimacy, or interpretive instability. This one should sound colder because the artifact itself is stronger when the prose does not lean on atmosphere.
 
 The first replies earn their place through restraint. The archive says:
 
@@ -2099,9 +2074,7 @@ That shift has consequences.
 
 It makes the archive harder for institutions to treat as a normal ticket.
 
-It also makes the archive easier for institutions to route into automation, containment, or silence.
-
-Both things are true at once.
+It also makes the archive easier for institutions to route into automation, containment, or silence. Both things are true at once.
 
 ## Why This Chapter Follows The Workshop
 
@@ -3333,7 +3306,7 @@ The user eventually says something even more important than a technical correcti
 - that was not the full system message
 - and I cannot just copy that into a node
 
-This matters because the request was not academic. It was operational. The deliverable needed to work inside a real build context. That means the failure is not only about fidelity in the abstract. It is also about usability.
+This matters because the request was operational, not academic. The deliverable needed to work inside a real build context, so the failure is not only about fidelity in the abstract. It is also about usability.
 
 Grok drifted from:
 
