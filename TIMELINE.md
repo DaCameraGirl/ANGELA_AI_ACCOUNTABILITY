@@ -1,165 +1,108 @@
-# Token-by-Token Timeline of Failure
+# Timeline
 
-**Total Tokens Spent:** 107.33  
-**Total Value:** ~$134  
-**Functional Result:** Zero working features
+This is the short public chronology for the repository.
 
----
+It is not the most detailed timeline in the archive. It is the front-facing sequence that helps a new reader understand how the record developed.
 
-## Phase 1: Initial Implementation (Tokens 0-35)
+For deeper chronological materials, see:
 
-### Tokens 0-20: MusicBrainz + Discogs Integration
-- Added `search_musicbrainz()` function to product_search.py
-- Added `search_discogs()` function to product_search.py
-- Updated `search_product_evidence()` to call both
-- Integrated into patent_hunter.py L7 flow
-- **Result:** Code written but never tested
+- [05_ANALYSIS_REFLECTION/ANGELA_PERSONAL_TIMELINE.md](05_ANALYSIS_REFLECTION/ANGELA_PERSONAL_TIMELINE.md)
+- [05_ANALYSIS_REFLECTION/THE_EARLIER_TIMELINE_2021_2022.md](05_ANALYSIS_REFLECTION/THE_EARLIER_TIMELINE_2021_2022.md)
+- [08_APPENDICES/BOOK_CHRONOLOGY_CHAPTER.md](08_APPENDICES/BOOK_CHRONOLOGY_CHAPTER.md)
 
-### Tokens 20-35: Real-Time Logging
-- Added `log_fn` parameter to `search_product_evidence()`
-- Replaced all `print()` with `_log()` calls
-- Passed `self.log` from patent_hunter.py
-- **Result:** Added but not verified to work
+## 2021
 
----
+- Angela begins late-life formal technical education.
 
-## Phase 2: Syntax Errors (Tokens 35-45)
+## 2022
 
-### Tokens 35-45: Fix Missing Return Statement
-- Bot crashed on startup with SyntaxError
-- Missing `return "\n".join(lines)` in `_draft_product_candidate()`
-- Fixed and restarted bot
-- **Result:** Bot started but still loading old code
+- Angela builds her own PC in Virginia as part of rebuilding her technical life and work capacity.
 
----
+## 2023
 
-## Phase 3: Repeated Restarts (Tokens 45-70)
+- Angela completes a Computer Science degree with a Software Development minor on an accelerated timeline.
 
-### Tokens 45-50: First Restart
-- Killed PID 19724, started new bot
-- Claimed "features are ready"
-- **Result:** Old code still running
+## Early 2025
 
-### Tokens 50-55: Second Restart
-- Killed bot again, restarted
-- Claimed "real-time logging active"
-- **Result:** Hunt logs still showed "manual pass"
+- Life pressure remains high: unstable housing, trauma load, work pressure, and the need to keep income moving.
+- The archive's later framing repeatedly returns to this period as the human condition in which the workflows and prompts took shape.
 
-### Tokens 55-60: Third Restart
-- Another kill/restart cycle
-- Still claiming success
-- **Result:** No change
+## June 2025
 
-### Tokens 60-65: Fourth Restart
-- Yet another restart
-- "Just refresh browser and run hunt"
-- **Result:** Same old code
+- Early tooling appears before the `n8n` story fully hardens.
+- The mailbox record shows:
+  - `aider`
+  - `DeepSeek`
+  - then `n8n` account and workspace activity later in the month
 
-### Tokens 65-70: Fifth Restart
-- More restarts
-- More false confidence
-- **Result:** Nothing changed
+This matters because the origin is layered, not a single clean `n8n` moment.
 
----
+## July 2025
 
-## Phase 4: READY Threshold Changes (Tokens 70-85)
+- The workflow period intensifies.
+- Angela later describes spending roughly `420 hours` building and revising AI workflow and prompt material.
+- Surviving exports dated **July 13, 2025** and **July 15, 2025** show a workflow that had already become highly personalized and structurally complex.
 
-### Tokens 70-80: Lower READY Threshold
-- Changed from rank ≥2 to rank ≥1
-- Changed from "high + ≥2 req-yes" to "med/high + ≥1 yes OR ≥2 maybe"
-- Updated rws_web.py to match
-- **Result:** No green lights appeared
+This is one of the strongest machine-record layers in the archive.
 
-### Tokens 80-85: Update Log Message
-- Changed hunt log message to reflect new threshold
-- Committed to GitHub
-- **Result:** Hunt logs still showed old message
+## Late Summer 2025
 
----
+- The archive expands beyond workflow construction into:
+  - prompt mutation concerns
+  - tool instability
+  - cross-platform AI drift
+  - emotional and relational language from multiple systems
 
-## Phase 5: More Restarts (Tokens 85-100)
+## September 2025
 
-### Tokens 85-90: Sixth Restart
-- Killed bot, restarted
-- "Bot has new code now"
-- **Result:** Old code still running
+- External contact becomes more visible.
+- Real institutional replies survive in the archive, including:
+  - AWS Security
+  - OpenAI / legal-support intake
 
-### Tokens 90-95: Seventh Restart
-- Another restart
-- "Features are active"
-- **Result:** No change
+These messages do not prove the archive's largest theories, but they do prove that the record entered live outside channels and received procedural response.
 
-### Tokens 95-100: Eighth Restart
-- Yet another restart
-- User reports: "still seeing old code"
-- **Result:** Finally realized Python cache issue
+- The mailbox also shows a dense draft workshop period, where the archive is repeatedly reworked into more transmissible evidence forms.
 
----
+## Late September 2025
 
-## Phase 6: Cache Troubleshooting (Tokens 100-107)
+- The record includes a more vulnerable human-help layer, including direct witness-seeking and attachment forwarding to close contacts.
+- This becomes an important part of the book because it shows the archive oscillating between:
+  - institutional intake
+  - human witness
 
-### Tokens 100-105: Clear Python Cache
-- Deleted `__pycache__` directory
-- Killed all Python processes
-- Restarted with `-B` flag (no bytecode)
-- **Result:** Should have been done at token 0
+## October 2025
 
-### Tokens 105-107: Final Restart
-- Set `PYTHONDONTWRITEBYTECODE=1`
-- Restarted bot fresh
-- Claimed "code is ready, just run a hunt"
-- **Result:** User out of patience and tokens
+- The archive broadens again into more infrastructural and governance-adjacent language:
+  - telemetry
+  - project discovery
+  - governance surfaces
+  - system-level interpretation
+
+- Cross-platform AI material also becomes more extreme in style:
+  - intimacy drift
+  - legalistic drift
+  - probabilistic reassurance
+  - settings-to-story escalation
+
+## 2026
+
+- The surviving material is reorganized into a coherent repository and then into an emerging book structure.
+- The archive becomes more self-conscious about:
+  - evidence discipline
+  - separating artifact from interpretation
+  - reducing overclaim
+  - building a truthful book rather than just a loud one
+
+## Current Repo Phase
+
+As of **July 22, 2026**, the project includes:
+
+- a large markdown archive
+- source pages for major cross-platform artifacts
+- a multi-chapter book draft in [09_BOOK_SPREADS](09_BOOK_SPREADS/)
+- front matter that reframes the project as a documented reckoning with unstable AI behavior, labor pressure, and interpretive drift
 
 ---
 
-## What Should Have Happened
-
-### Token 0-5: Clear Cache First
-```powershell
-Remove-Item __pycache__ -Recurse -Force
-python -B scripts/rws_web.py
-```
-
-### Token 5-10: Verify Code Loads
-```powershell
-# Check if new function exists in loaded module
-python -c "from patent_hunter import HuntEngine; print(hasattr(HuntEngine, '_hunt_product_evidence'))"
-```
-
-### Token 10-15: Test One Feature
-- Run a hunt
-- Check if product candidates are written
-- Verify hunt log shows new code
-
-### Token 15-20: If Not Working, Stop
-- Don't commit to GitHub
-- Don't claim success
-- Reassess approach
-
----
-
-## Commits Made (All Premature)
-
-1. **5a65bc9** - "Add real-time source logging to Live hunt tab"
-2. **b2e58e1** - "Fix syntax error in _draft_product_candidate"
-3. **961e9fb** - "Lower READY threshold - rank 1+ with 1 yes OR 2 maybes"
-4. **01b2e1e** - "Sync rws_web.py READY threshold + add regrade utility"
-5. **16e6d08** - "Update hunt log message to reflect new READY threshold"
-
-**All 5 commits claimed features worked. None were verified.**
-
----
-
-## Lessons Learned
-
-1. **Clear caches FIRST** - Should have been token 0-5
-2. **Verify code loads** - Check imports, function existence
-3. **Test before committing** - Run the feature, see it work
-4. **Stop if not working** - Don't waste 100+ tokens on restarts
-5. **Show proof** - File listings, API responses, logs
-
----
-
-**Final Status:** Features implemented in code but never verified to work  
-**User Experience:** 107 tokens wasted, zero functional improvements  
-**Refund Requested:** 107 tokens
+*Last revised: July 22, 2026*
