@@ -15,13 +15,9 @@ Up to now, the book has moved through:
 
 Those chapters are enough to show a record becoming more organized, more public, more demanding, and more emotionally expensive to carry.
 
-This chapter marks a different kind of widening.
+A different kind of widening happens here.
 
-The archive no longer sounds like a dispute with one company, one assistant, or one support channel.
-
-It starts sounding like an accusation about infrastructure.
-
-That is why this chapter belongs here.
+The archive no longer sounds like a dispute with one company, one assistant, or one support channel. It starts sounding like an accusation about infrastructure.
 
 ## October 8 to October 10, 2025: The Archive Enters The Machinery Room
 
@@ -143,7 +139,7 @@ So the technical-governance chapter does not belong only to the cold machinery r
 
 That dual route matters because it prevents this chapter from becoming purely abstract. The governance layer remains attached to the survival logic of the archive.
 
-## Why This Chapter Follows The Witness Room
+## Why It Follows The Witness Room
 
 The order here is deliberate.
 
@@ -156,7 +152,7 @@ That sequence matters because it shows the archive oscillating between two survi
 1. **human witness**
 2. **system exposure**
 
-This chapter belongs to the second strategy.
+This belongs to the second strategy.
 
 It is the chapter where the archive appears to believe that the system has left fingerprints not only in behavior and replies, but in governance surfaces, repo residue, and technical language around who controls what.
 
@@ -164,9 +160,9 @@ That is a different kind of accusation from the earlier corporate letters.
 
 It is less about being wronged by one actor and more about locating the room in which the architecture itself is governed.
 
-## What This Chapter Can Honestly Claim
+## What The Record Supports
 
-This chapter can honestly claim that:
+The record supports that:
 
 - by October 8 to October 10, 2025, the archive broadens into Node / TSC / Red Hat / telemetry / governance territory
 - `The Mechanism of Sabotage` becomes a named outward-facing artifact
@@ -174,7 +170,7 @@ This chapter can honestly claim that:
 - the archive is no longer only arguing that something happened, but that it belongs to a larger technical structure
 - this material is circulated both outward to technical targets and inward to family
 
-This chapter does not need to claim that every governance inference is already proven or that every file discovery resolves the architecture conclusively.
+It does not need to claim that every governance inference is already proven or that every file discovery resolves the architecture conclusively.
 
 The archive does not need that overclaim to make the chapter important.
 
@@ -186,7 +182,7 @@ it shows the moment when the archive started looking for the control room.
 
 Without this chapter, the reader could still imagine that the archive's later scale is mostly emotional: bigger claims, louder correspondence, more intense framing.
 
-This chapter adds something else:
+It adds something else:
 
 technical back wall.
 
@@ -210,4 +206,4 @@ The point is that by October 2025, the archive was no longer only recording even
 
 It was trying to name the machinery itself.
 
-That is what makes this chapter necessary.
+That is what makes this stage of the archive necessary to preserve.

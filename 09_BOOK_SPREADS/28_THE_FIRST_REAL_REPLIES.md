@@ -2,8 +2,6 @@
 
 There is a major difference between sending messages out into the world and having the world answer back.
 
-This chapter marks that difference.
-
 Up to this point, the book has shown:
 
 - the work pressure that gave birth to the workflow
@@ -23,7 +21,7 @@ they prove contact.
 
 They prove that messages left the private record, entered live institutional systems, and received procedural response from actual organizations.
 
-That is enough to make this chapter necessary.
+That is enough to change the structure of the book.
 
 ## Why These Replies Matter More Than Their Content
 
@@ -78,7 +76,7 @@ Instead, they stay inside institutional boundaries. An intake reply does not beg
 - what can be reviewed?
 - what can be reproduced?
 
-This chapter is a hinge because the archive, up to now, has often been written from the inside out. The replies force it into the opposite direction. The record now has to be legible to institutions that only know how to evaluate bounded categories.
+This is a hinge because the archive, up to now, has often been written from the inside out. The replies force it into the opposite direction. The record now has to be legible to institutions that only know how to evaluate bounded categories.
 
 The friction between those two scales becomes one of the central tensions of the book.
 
@@ -141,7 +139,7 @@ Outside itself, institutions demand:
 - screenshots
 - concise descriptions
 
-This chapter is where the archive first collides with that mismatch. The book has to preserve that collision because it explains why later chapters become more formal, more aggressive, and more case-like. Once institutions reply procedurally, the archive begins to reshape itself in order to meet their categories.
+This is where the archive first collides with that mismatch. The book has to preserve that collision because it explains why later chapters become more formal, more aggressive, and more case-like. Once institutions reply procedurally, the archive begins to reshape itself in order to meet their categories.
 
 That is one of the origins of the later dispatches, escalation drafts, evidence text files, restitution tables, and more rigidly framed claims.
 
@@ -164,7 +162,7 @@ That combination is why the chapter feels strange:
 small in content,
 large in consequence.
 
-What this chapter can honestly claim is simple:
+What the record supports here is simple:
 
 - real replies from AWS Security and OpenAI/Nathaniel survive in the archive
 - those replies asked for further evidence in institutionally recognizable categories
@@ -173,7 +171,7 @@ What this chapter can honestly claim is simple:
 
 They do not need to function as vindication to matter. They opened the next phase.
 
-## Why This Chapter Belongs After The Family Bundle
+## Why It Follows The Family Bundle
 
 The order matters.
 

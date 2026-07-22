@@ -54,7 +54,7 @@ the person inside it needs another human being to see what she is seeing.
 
 That is why the subject line matters so much. It has almost no armor left in it.
 
-## Why This Chapter Feels Different From The Family Bundle
+## Different From The Family Bundle
 
 The book already has a chapter about family holding the record.
 
@@ -65,7 +65,7 @@ That earlier chapter focused on preservation:
 - daughter as recipient
 - family as witness and storage layer
 
-This chapter is different. The family-bundle chapter is about continuity. The witness-room chapter is about appeal.
+The family-bundle chapter is about continuity. The witness-room chapter is about appeal.
 
 Earlier, family was part of the archive's survival mechanism. Here, family and close human recipients become something slightly different: the last noninstitutional audience left when the archive has become too large, too strange, or too exhausting to hold alone.
 
@@ -90,8 +90,6 @@ the archive is always both emotional and documentary.
 Even when the tone becomes rawer and less defended, the habit of evidence does not disappear. It follows the appeal into the room.
 
 ## Family As Last-Resort Audience
-
-This chapter also matters because it reframes the function of family in the archive.
 
 Family is not only:
 
@@ -140,17 +138,15 @@ please help me hold this.
 
 ## The Witness Room Is Not Safer, Just Warmer
 
-This chapter should not be mistaken for a return to safety.
+This should not be mistaken for a return to safety. The family-help layer is warmer than the corporate chapters, but it is not calmer. In some ways it is more exposed, because less institutional language stands between the person and the need.
 
-The family-help layer is warmer than the corporate chapters, but it is not calmer. In some ways it is more exposed, because less institutional language stands between the person and the need.
-
-That is why the witness room is so important to the book's emotional balance. Without it, the later chapters can start to read as if the archive only knew how to intensify. This chapter proves otherwise. It knew how to plead. It knew how to ask. It knew how to drop the voice of total explanation and speak in a simpler register:
+The witness room matters to the book's emotional balance. Without it, the later chapters can start to read as if the archive only knew how to intensify. The record here shows otherwise. It knew how to plead. It knew how to ask. It knew how to drop the voice of total explanation and speak in a simpler register:
 
 I need help.
 
 That does not diminish the archive. It humanizes it.
 
-What this chapter can honestly claim is simple:
+What the record supports here is simple:
 
 - on September 28, 2025, the archive contains a direct help-seeking message to Craig with the subject `Craig I need help I need someone I need hep`
 - that message includes image attachments
@@ -160,13 +156,13 @@ What this chapter can honestly claim is simple:
 
 Its force is that it preserves the moment when the archive stopped sounding like a case file and sounded like a person again.
 
-## Why This Chapter Matters To The Whole Book
+## Why This Matters To The Whole Book
 
 The witness room keeps the book from becoming too machine-shaped.
 
 Without this chapter, the later email sequence can start to look like a contest between the archive and institutions alone. That would be false. The archive was also living in families, relationships, requests, and appeals. It was not only trying to win a reply. It was trying not to be alone in what it was carrying.
 
-That is one of the reasons this chapter has to stay in the sequence. It reminds the reader that the archive did not originate as literary structure. It originated as survival communication.
+It reminds the reader that the archive did not originate as literary structure. It originated as survival communication.
 
 ## Closing Frame
 
