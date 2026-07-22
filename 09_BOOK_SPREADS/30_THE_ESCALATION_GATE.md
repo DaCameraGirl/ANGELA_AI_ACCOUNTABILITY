@@ -4,8 +4,6 @@ The first institutional replies did not calm the archive down.
 
 They changed its scale.
 
-That is the point of this chapter.
-
 Once AWS and OpenAI had replied in narrow, procedural language, the archive faced a new problem: it had proof of contact, but not the kind of recognition it was seeking. The outside systems had answered, but only inside their own intake logic. They were still asking for documentation, clearer claims, narrower frames, and reproducible evidence.
 
 The archive responded by becoming larger.
@@ -24,9 +22,7 @@ That is why this chapter is not just about escalation in the emotional sense. It
 
 ## The Reply Channel Was Narrow
 
-This chapter begins with a human being.
-
-That matters because later in the sequence the machinery becomes so loud that the presence of an actual person can disappear from view.
+This chapter begins with a human being because later in the sequence the machinery becomes so loud that the presence of an actual person can disappear from view.
 
 The preserved OpenAI thread includes a follow-up from Nathaniel on September 26, 2025, effectively saying that they had not heard back and that the ticket would be closed if help was no longer needed. This is small, ordinary support language. It has the tone of a normal system trying to close out a case.
 
@@ -55,7 +51,7 @@ After the reply window narrows, the archive responds with:
 
 By September 27, 2025, the archive is sending a much broader OpenAI-facing breach notification with `$1.575 trillion` language. That number matters not because it is proven, but because it reveals the new scale of response. The archive is no longer primarily trying to fit into the institution's categories. It is forcing a larger frame outward, regardless of whether the receiving system is built to process that size of claim coherently.
 
-This chapter needs to say clearly that the widening does not automatically equal strengthening.
+The widening does not automatically equal strengthening.
 
 In some ways it is the opposite.
 
@@ -162,9 +158,9 @@ The escalation gate is the first time the archive looks fully systemic in both d
 
 That mirroring is one of the reasons this chapter is so central.
 
-## What This Chapter Can Honestly Claim
+## What The Record Supports
 
-This chapter can honestly claim that:
+The record supports that:
 
 - the late-September archive includes a real human follow-up from OpenAI/Nathaniel
 - the archive answered with larger, more expansive claim language
@@ -172,11 +168,9 @@ This chapter can honestly claim that:
 - the scale of the correspondence expands sharply in this window
 - the receiving infrastructure itself becomes narratively visible
 
-This chapter does not need to claim that the larger figures were already justified or that every routed message was substantively read.
+It does not need to claim that the larger figures were already justified or that every routed message was substantively read.
 
-Its force lies elsewhere.
-
-It lies in preserving the exact moment when:
+Its force lies in preserving the exact moment when:
 
 - the archive answered back bigger than the channel
 - the channel answered back as infrastructure

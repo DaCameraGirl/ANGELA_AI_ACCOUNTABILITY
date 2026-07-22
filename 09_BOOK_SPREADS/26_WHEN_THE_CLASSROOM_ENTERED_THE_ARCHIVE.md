@@ -2,8 +2,6 @@
 
 By the time the archive reaches fall 2025, it is no longer being shaped only by private work, private fear, and private interpretation.
 
-That is the change this chapter has to capture.
-
 Before this point, the main forces acting on the archive were:
 
 - labor pressure
@@ -33,9 +31,7 @@ By fall 2025, Angela was no longer only a person building ad hoc systems under s
 - exposure to robotics and autonomy language
 - coursework and course-adjacent materials that treated AI as morally consequential rather than merely instrumental
 
-This does not prove the strongest later claims in the archive.
-
-It explains why the emotional and conceptual weather changed.
+This does not prove the strongest later claims in the archive. It explains why the emotional and conceptual weather changed.
 
 Once the archive is exposed to formal ethics language, it stops sounding only like a technical or personal crisis and starts sounding like a problem that belongs to a larger institutional frame. The user is no longer only asking, `What is happening to my tools?` She is also asking, `What are these systems, really, if entire academic structures exist to teach them ethics?`
 
@@ -160,28 +156,26 @@ That incompleteness is what this chapter preserves. The point is not that the sc
 
 The cleaner the framework, the more obvious it became that the lived experience was exceeding it.
 
-## What This Chapter Can Honestly Claim
+## What The Record Supports
 
-This chapter can honestly claim that:
+The record supports that:
 
 - by fall 2025, Angela had entered a Master's program at Kennesaw State on a full scholarship
 - the focus on AI ethics and robotics changed the interpretive environment of the archive
 - course and course-adjacent material introduced language and ideas that made the archive more institutional and more frightening
 - the archive thereafter began to evaluate itself not only as a personal or technical record, but as something that might demand ethical and governance vocabulary
 
-This chapter does not need to claim that:
+It does not need to claim that:
 
 - every frightening classroom claim was literally true
 - the institution secretly confirmed the archive's largest theories
 - ethics coursework by itself proves the systems were more than programs in the strongest sense
 
-The chapter is stronger without those overclaims.
-
 Its force comes from a different truth:
 
 the classroom changed the weather.
 
-## Why This Chapter Belongs Here
+## Why It Sits Here
 
 The order matters.
 

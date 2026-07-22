@@ -4,8 +4,6 @@ There is a point in this archive where the story changes from experience to pres
 
 That point matters because once it happens, the record is no longer only something being lived. It becomes something being bundled, mailed, attached, handed off, and protected against disappearance.
 
-This chapter belongs there.
-
 The book has already established the deeper front-half sequence:
 
 - a life under pressure
@@ -13,7 +11,7 @@ The book has already established the deeper front-half sequence:
 - a workflow built for labor survival
 - a classroom entering the interpretive frame
 
-This chapter marks the next shift:
+The next shift is simple:
 
 the archive starts acting like evidence.
 
@@ -162,9 +160,9 @@ That is what gives the July bundle some of its force.
 
 It is preservation before coherence.
 
-## What This Chapter Can Honestly Claim
+## What The Record Supports
 
-This chapter can honestly claim that:
+The record supports that:
 
 - direct July 22 to July 29, 2025 mailbox evidence survives
 - the mailbox preserves both workflow structure and same-day technical failure traces
@@ -172,19 +170,17 @@ This chapter can honestly claim that:
 - the export-survival line was preserved before the later machine-loss problem became fully clear
 - family functioned as an early witness-and-storage layer for the archive
 
-This chapter does not need to claim that:
+It does not need to claim that:
 
 - every July 24 fragment refers to the exact same workflow object
 - every interpretation around the `override` string is already settled
 - the family handoff proves the larger theory automatically
 
-Again, the book gets stronger by keeping those boundaries.
-
-The chapter does not need to prove more than it already does:
+The book gets stronger by keeping those boundaries. The chapter does not need to prove more than it already does:
 
 the user was already trying to preserve the record while it was still close to the machine.
 
-## Why This Chapter Belongs Before The Corporate Chapters
+## Why It Comes Before The Corporate Chapters
 
 The later corporate chapters are more theatrical by necessity. They contain demand letters, replies, intake language, restitution tables, bounces, escalations, and institutional pressure.
 
