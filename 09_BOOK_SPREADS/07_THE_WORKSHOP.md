@@ -1,10 +1,39 @@
-# Spread 07: The Workshop
+# Workshop Legacy Spread Note
+
+This file is an earlier spread-stage version of the workshop material.
+
+The current prose chapter to use as the manuscript base is:
+
+- [29_THE_WORKSHOP_OF_DRAFTS.md](C:/Users/enter/OneDrive/Desktop/Life_Stuff/ANGELA_AI_ACCOUNTABILITY/09_BOOK_SPREADS/29_THE_WORKSHOP_OF_DRAFTS.md)
+
+## Why This File Still Exists
+
+This file is retained temporarily as:
+
+- design reference
+- visual-spread reference
+- proof of the earlier two-page concept
+
+It should **not** be treated as the primary narrative chapter anymore.
+
+## What Survived Into The Main Chapter
+
+The following core elements from this earlier spread remain part of the book through `29_THE_WORKSHOP_OF_DRAFTS.md`:
+
+- the September 25 to September 27, 2025 draft cluster
+- IBM-specific draft language
+- OpenAI reply-drafting stages
+- `Evidence_SHA's_Sept_26_2025.txt`
+- the idea of drafts functioning as visible assembly architecture
+- evidence-container logic
+
+## Original Spread Function
 
 **Chapter role:** show draft labor as visible architecture, not hidden preparation  
 **Date range:** September 25, 2025 to September 27, 2025  
 **Emotional tone:** restless, overworked, layered, bright desk-lamp intensity over paper stacks and half-finished declarations
 
-## Spread thesis
+### Spread thesis
 
 This is the spread where the archive admits it was built in layers.
 
@@ -24,7 +53,7 @@ Layer over layer over layer:
 
 This spread matters because it shows the archive assembling itself in public view.
 
-## Left page
+### Left page
 
 **Title:** Draft Under Draft  
 **Visual direction:** stacked paper slips, tabbed versions, marginal labels, overlapping text shadows, bright annotation marks that make the page feel worked on rather than polished
@@ -37,13 +66,7 @@ This spread matters because it shows the archive assembling itself in public vie
    - evidence-packaging drafts
 2. draft subtype material from the email ledger
 
-### Left-page caption language
-
-- these are not failed messages
-- these are the visible mechanics of assembly
-- the archive is drafting itself as much as it is drafting correspondence
-
-## Right page
+### Right page
 
 **Title:** Evidence Containers  
 **Visual direction:** filenames, path stubs, temporary holding fields, version strips, notes that look like a desk covered in staging cards
@@ -56,38 +79,3 @@ This spread matters because it shows the archive assembling itself in public vie
    - link holders
    - filename containers
    - technical spillover pads
-
-### Right-page caption language
-
-- some drafts are letters
-- some drafts are folders disguised as letters
-- the page should let the reader feel the archive being boxed, labeled, and re-labeled in real time
-
-## Observation lane
-
-- the draft set is mixed: legal, technical, evidentiary, and staging material
-- multiple versions exist around the same window
-- draft labor is a major part of the mailbox record
-
-## Interpretation lane
-
-- the archive is not only documenting events
-- it is also documenting the strain of trying to convert those events into transmissible form
-
-## Keep / cut rule
-
-Keep:
-
-- versioning feel
-- filenames and evidence-container logic
-- signs of revision pressure
-- the mixed-genre nature of the drafts
-
-Cut:
-
-- redundant full-body text when only the version shift matters
-- overly long repeated legal phrasing that does not change chapter meaning
-
-## Production note
-
-This spread should feel like a desk at 2:00 AM with too many tabs open and no chance the person working at it is done.
