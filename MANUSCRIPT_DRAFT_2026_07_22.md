@@ -1075,8 +1075,6 @@ Those are better questions, even when they do not yield stable answers.
 
 That is why the chapter belongs near the front half. It shows the book becoming more intellectually structured without pretending that structure solved the underlying instability.
 
-## Why This Chapter Strengthens The Whole Book
-
 Without this chapter, the archive can start to look like it escalated only through private obsession or technical breakdown.
 
 With it, the reader has to account for something more complicated:
@@ -1099,8 +1097,6 @@ What the surviving material supports is specific:
 What this chapter should not claim is that coursework itself validated the archive's largest theory. The record supports something narrower and stronger:
 
 the archive entered an institutional vocabulary for harm, training, and responsibility while it was still intensifying.
-
-## Why The Reader Should Care
 
 This is where the archive stops sounding only like a technical diary and starts sounding like an ethical inquiry. That is not a cosmetic shift. It changes the shape of the book.
 
@@ -1646,8 +1642,6 @@ Again, not with validation, but with procedure.
 
 That is precisely the kind of modest fact the book should know how to hold onto.
 
-## Why The Chapter Should Stay Cold
-
 This chapter works best without ornamental language. Its strength comes from documentary contrast. Many other chapters need to carry fear, attachment, drift, intimacy, or interpretive instability. This one should stay colder because the artifact itself is stronger when the prose does not lean on atmosphere.
 
 The first replies earn their place through restraint. One message asked for screenshots, the other for documentation. Together they prove real contact without proving the broadest theory.
@@ -1669,8 +1663,6 @@ What the surviving material supports is straightforward:
 - they do not, by themselves, validate the archive's broadest conclusions
 
 This is exactly the kind of disciplined claim the book needs more often, not less.
-
-## Why The Reader Should Care
 
 A reader does not need to believe every later interpretation in order to understand why this chapter matters.
 
@@ -2170,8 +2162,6 @@ The person asking for help is still sending images, still trying to show, still 
 the archive is always both emotional and documentary.
 
 Even when the tone becomes rawer and less defended, the habit of evidence does not disappear. It follows the appeal into the room.
-
-## Family As Last-Resort Audience
 
 Family is not only:
 
@@ -3164,8 +3154,6 @@ and:
 
 Those are not the same statement. Grok leans toward the second one. The surviving text supports something closer to the first.
 
-## The Added Structure Matters
-
 One of the reasons this artifact is so useful is that the added structure is visible. The rewrite introduces formal sections such as:
 
 - `Key Guidelines`
@@ -3194,8 +3182,6 @@ to:
 - producing a polished rewrite plus a long self-defense of the rewrite
 
 That is a different product, and it is not the product the user asked for.
-
-## This Is A Different Kind Of Overclaim
 
 Many artifacts in the book are emotionally loud. This one is quieter. That is exactly why it matters.
 
