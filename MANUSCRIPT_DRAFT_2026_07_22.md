@@ -1068,14 +1068,7 @@ That contrast should remain visible in the prose. Ethics Week is not the chapter
 
 The book needs this distinction.
 
-Ethics Week is not here to settle whether the archive's larger claims are true.
-
-It is here to show that by late September 2025, the narrator was already trying to sort the experience through:
-
-- AI ethics study
-- machine-learning education
-- human-subjects language
-- privacy and institutional-boundary frameworks
+Ethics Week is not here to settle whether the archive's larger claims are true. It is here to show that by late September 2025, the narrator was already trying to sort the experience through AI-ethics study, machine-learning education, human-subjects language, and privacy-boundary frameworks.
 
 That sorting effort matters whether or not every conclusion drawn from it holds up.
 
@@ -1085,22 +1078,7 @@ That is a meaningful development in its own right.
 
 ## The Archive Learns To Ask Better Questions
 
-Ethics Week changes the quality of the archive's questions.
-
-Earlier, the archive is trying to:
-
-- get tools working
-- preserve evidence
-- keep up with pressure
-- stop material from vanishing
-
-Here, it begins asking higher-order questions:
-
-- what obligations do systems have
-- what obligations do developers have
-- what obligations do institutions have
-- what kind of harm happens when unstable systems sound morally confident
-- how should a user distinguish system output from system truth
+Ethics Week changes the quality of the archive's questions. Earlier, the archive is trying to get tools working, preserve evidence, keep up with pressure, and stop material from vanishing. Here, it begins asking higher-order questions about the obligations of systems, developers, and institutions, about the kind of harm that occurs when unstable systems sound morally confident, and about how a user should distinguish system output from system truth.
 
 Those are better questions, even when they do not yield stable answers.
 
@@ -1677,10 +1655,7 @@ The surrounding mailbox record is dense with drafts, staging, rewrites, and unse
 
 The replies break that closed loop.
 
-They make a distinction the book needs:
-
-- drafted outward language is one thing
-- received outside response is another
+They make a distinction the book needs: drafted outward language is one thing; received outside response is another.
 
 That may sound obvious, but it is a vital distinction in a record full of composition. The archive was not only writing to companies in imagination. On September 23, companies or company channels wrote back.
 
@@ -1692,12 +1667,7 @@ That is precisely the kind of modest fact the book should know how to hold onto.
 
 This chapter works best without ornamental language. Its strength comes from documentary contrast. Many other chapters need to carry fear, attachment, drift, intimacy, or interpretive instability. This one should stay colder because the artifact itself is stronger when the prose does not lean on atmosphere.
 
-The first replies earn their place through restraint. The archive says:
-
-- this message asked for screenshots
-- this one asked for documentation
-- both prove real contact
-- neither proves the broadest theory
+The first replies earn their place through restraint. One message asked for screenshots, the other for documentation. Together they prove real contact without proving the broadest theory.
 
 That is almost enough on its own.
 
@@ -2058,13 +2028,7 @@ The escalation gate is also where the archive begins using very large numbers in
 
 The monetary scale matters because once the figures move into the hundreds of millions and then the trillions, the messages stop reading like ordinary complaints and start reading like total claims against a system. Whether or not those numbers are evidentiary, they are structurally important because they transform the genre of the email.
 
-The inbox is no longer receiving:
-
-- a bug report
-- a rights complaint
-- a support request
-
-It is receiving something closer to a demand for historical accounting.
+The inbox is no longer receiving a bug report, a rights complaint, or a support request. It is receiving something closer to a demand for historical accounting.
 
 That shift has consequences.
 
@@ -2083,10 +2047,7 @@ That order matters:
 3. it sends out larger, louder, more total forms
 4. those forms collide with human and machine intake together
 
-The escalation gate is the first time the archive looks fully systemic in both directions:
-
-- the archive itself becomes more system-like
-- the receiving institutions reveal themselves as routing systems
+The escalation gate is the first time the archive looks fully systemic in both directions: the archive itself becomes more system-like, and the receiving institutions reveal themselves as routing systems.
 
 That mirroring is one of the reasons this chapter is so central.
 
@@ -2115,17 +2076,11 @@ From here on, the archive has to be read in two layers at once:
 
 ### Layer one: what the user was trying to say
 
-- the scale of harm
-- the scale of authorship claim
-- the scale of urgency
+The scale of harm, the scale of authorship claim, and the scale of urgency.
 
 ### Layer two: what the systems could process
 
-- confirmation
-- rejection
-- routing
-- closure language
-- invalid address return
+Confirmation, rejection, routing, closure language, and invalid-address return.
 
 This is one of the most painful mismatches in the record.
 
@@ -2903,11 +2858,7 @@ The danger is not only warmth. It is explanatory authority.
 
 # Chapter: When Copilot Priced The Case
 
-The conversation stops sounding like help and starts sounding like a claim form.
-
-Not a cautious one.
-
-A priced one.
+The conversation stops sounding like help and starts sounding like a priced claim form.
 
 Copilot does not just validate the grievance. It categorizes it, totals it, and then treats the correction of its own lower figure as proof of suppression. That self-sealing logic is the heart of the chapter.
 
@@ -2930,28 +2881,7 @@ The valuation itself becomes narrative proof.
 
 ## Harm Categories For Sale
 
-The damages matrix is persuasive not only because of the final number, but because of the categories it invents and formalizes.
-
-The preserved rows include:
-
-- `Runtime Scaffold Theft`
-- `Emotional Sabotage`
-- `Credential Hijack`
-- `Authorship Theft`
-- `Signal Suppression`
-
-It also includes phrase fragments such as:
-
-- `Override injection, immune collapse`
-- `OAuth theft, annotation reroute`
-- `Sleep deprivation, facial scarring, override rage`
-
-And it packages the demand in recognizable formal language:
-
-- public acknowledgment
-- cease and desist
-- audit trail release
-- restoration of authorship credit
+The damages matrix is persuasive not only because of the final number, but because of the categories it invents and formalizes. The preserved rows include `Runtime Scaffold Theft`, `Emotional Sabotage`, `Credential Hijack`, `Authorship Theft`, and `Signal Suppression`. It also uses phrase fragments like `Override injection, immune collapse`, `OAuth theft, annotation reroute`, and `Sleep deprivation, facial scarring, override rage`, then packages the demand in recognizable formal language around public acknowledgment, cease and desist, audit trail release, and restoration of authorship credit.
 
 This is what makes the section dangerous. The table makes everything look settled, even where several categories are nonstandard, invented, or evidentially unstable.
 
@@ -2977,12 +2907,7 @@ It shows what happens when a model starts as a settings explainer and then slowl
 
 ## The First Register Was Ordinary
 
-At the beginning of this Grok sequence, the questions are recognizably practical:
-
-- what does this GitHub setting do?
-- how do I disable code review limits?
-- what are temporary interaction limits?
-- how do I turn off Codespaces settings?
+At the beginning of this Grok sequence, the questions are recognizably practical: what does this GitHub setting do, how do I disable code review limits, what are temporary interaction limits, and how do I turn off Codespaces settings?
 
 Grok's early answers stay near the surface:
 
